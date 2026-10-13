@@ -61,65 +61,65 @@ The following table summarizes market-leading commercial F&B CRM and restaurant 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore battle-tested open-source platforms and self-hosted frameworks for restaurant management, point-of-sale, table bookings, customer relationship management, and food supply chain tracking. Repositories are sorted in descending order by GitHub star count:
+Explore battle-tested open-source platforms and self-hosted frameworks for restaurant management, point-of-sale, table bookings, customer relationship management, and food supply chain tracking. Repositories are sorted in descending order by GitHub Stars_Count:
 
-1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *Comprehensive Open-Source Business & POS Suite (LGPL-3.0)*  
    Features specialized restaurant modules including floor plan mapping, split billing, kitchen order tickets (KOT), bar management, real-time inventory reconciliation, and extensible customer loyalty modules.
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Full-Featured Open-Source ERP with Hospitality & POS Capabilities (GPL-3.0)*  
    Offers deep operational coverage for food distributors and restaurant chains: inventory batch management, expiration tracking, multi-currency accounting, supplier purchase orders, and customizable customer CRM.
 
-3. **[Grocy](https://github.com/grocy/grocy)** [![GitHub Stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
+3. **[Grocy](https://github.com/grocy/grocy)** [![GitHub_Stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
    *Self-Hosted Groceries, Pantry & Inventory Management System (MIT)*  
    Ideal for cafes, micro-breweries, and commercial test kitchens requiring barcode scanning, recipe ingredient tracking, minimum stock level alerts, and batch expiration tracking.
 
-4. **[Open Source POS](https://github.com/opensourcepos/opensourcepos)** [![GitHub Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers)  
+4. **[Open Source POS](https://github.com/opensourcepos/opensourcepos)** [![GitHub_Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers)  
    *Web-Based Point of Sale System (MIT)*  
    Built with PHP and CodeIgniter. Offers itemized sales checkout, daily receipts, customer database recording, gift cards, expense logging, and inventory quantity management suitable for counter-service cafes and kiosks.
 
-5. **[Easy!Appointments](https://github.com/alextselegidis/easyappointments)** [![GitHub Stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers)  
+5. **[Easy!Appointments](https://github.com/alextselegidis/easyappointments)** [![GitHub_Stars](https://img.shields.io/github/stars/alextselegidis/easyappointments?style=social&color=white)](https://github.com/alextselegidis/easyappointments/stargazers)  
    *Open-Source Booking & Reservation Scheduler (GPL-3.0)*  
    Easily tailored for restaurant dining reservations, private dining room bookings, wine tastings, and chef's table sessions with Google Calendar two-way synchronization and SMS reminders.
 
-6. **[TastyIgniter](https://github.com/tastyigniter/TastyIgniter)** [![GitHub Stars](https://img.shields.io/github/stars/tastyigniter/TastyIgniter?style=social&color=white)](https://github.com/tastyigniter/TastyIgniter/stargazers)  
+6. **[TastyIgniter](https://github.com/tastyigniter/TastyIgniter)** [![GitHub_Stars](https://img.shields.io/github/stars/tastyigniter/TastyIgniter?style=social&color=white)](https://github.com/tastyigniter/TastyIgniter/stargazers)  
    *Dedicated Open-Source Restaurant Online Ordering & Table Management System (MIT)*  
    Built specifically for the food and beverage industry. Features interactive table reservations, responsive online menu ordering, delivery zones with fee calculations, kitchen management, customer order history, and multi-location restaurant support.
 
-7. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+7. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
    *Lightweight & Highly Customizable Open-Source CRM (GPL-3.0)*  
    Adaptable for hospitality groups and corporate food caterers to log guest profiles, corporate event inquiries, automated email campaigns, order history, and dietary preferences.
 
-8. **[Akeneo PIM](https://github.com/akeneo/pim-community-dev)** [![GitHub Stars](https://img.shields.io/github/stars/akeneo/pim-community-dev?style=social&color=white)](https://github.com/akeneo/pim-community-dev/stargazers)  
+8. **[Akeneo PIM](https://github.com/akeneo/pim-community-dev)** [![GitHub_Stars](https://img.shields.io/github/stars/akeneo/pim-community-dev?style=social&color=white)](https://github.com/akeneo/pim-community-dev/stargazers)  
    *Enterprise Product Information Management Platform (OSL-3.0)*  
    Designed for food & beverage manufacturers, wholesalers, and multi-brand ghost kitchens to manage complex food catalogs, multi-lingual ingredient lists, nutritional specs, and allergen metadata.
 
-9. **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+9. **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
    *Open-Source Supply Chain & Warehouse Management (EPL-1.0)*  
    Tracks wholesale food fulfillment, lot-level traceability, cold-chain replenishment, purchase orders, and stock movements across central food distribution hubs.
 
-10. **[PizzaQL](https://github.com/pizzaql/pizzaql)** [![GitHub Stars](https://img.shields.io/github/stars/pizzaql/pizzaql?style=social&color=white)](https://github.com/pizzaql/pizzaql/stargazers)  
+10. **[PizzaQL](https://github.com/pizzaql/pizzaql)** [![GitHub_Stars](https://img.shields.io/github/stars/pizzaql/pizzaql?style=social&color=white)](https://github.com/pizzaql/pizzaql/stargazers)  
     *Modern Order Management System for Quick-Service Restaurants (MIT)*  
     Built with React and GraphQL. Provides an ultra-fast order-taking interface, topping/modifier configuration, and real-time kitchen status boards tailored for pizzerias and burger joints.
 
-11. **[Enatega Single Vendor](https://github.com/enatega/food-delivery-singlevendor)** [![GitHub Stars](https://img.shields.io/github/stars/enatega/food-delivery-singlevendor?style=social&color=white)](https://github.com/enatega/food-delivery-singlevendor/stargazers)  
+11. **[Enatega Single Vendor](https://github.com/enatega/food-delivery-singlevendor)** [![GitHub_Stars](https://img.shields.io/github/stars/enatega/food-delivery-singlevendor?style=social&color=white)](https://github.com/enatega/food-delivery-singlevendor/stargazers)  
     *White-Label Food Delivery & Restaurant Management Solution (MIT)*  
     Complete open-source multi-tier stack featuring customer mobile apps (React Native), rider dispatch apps, restaurant management portal, and order routing backend (Node.js/GraphQL).
 
-12. **[Flutter POS System](https://github.com/evan361425/flutter-pos-system)** [![GitHub Stars](https://img.shields.io/github/stars/evan361425/flutter-pos-system?style=social&color=white)](https://github.com/evan361425/flutter-pos-system/stargazers)  
+12. **[Flutter POS System](https://github.com/evan361425/flutter-pos-system)** [![GitHub_Stars](https://img.shields.io/github/stars/evan361425/flutter-pos-system?style=social&color=white)](https://github.com/evan361425/flutter-pos-system/stargazers)  
     *Cross-Platform POS System for Small Restaurants (MIT)*  
     Cross-platform Flutter application providing order taking, table bill generation, receipt printing, and daily cashier shift closing with multi-platform deployment (Android, iOS, Windows, macOS).
 
-13. **[URY](https://github.com/ury-erp/ury)** [![GitHub Stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers)  
+13. **[URY](https://github.com/ury-erp/ury)** [![GitHub_Stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers)  
     *FOSS Enterprise Restaurant Management System Powered by ERPNext (AGPL-3.0)*  
     Production-grade platform deployed across commercial outlets. Integrates dine-in/takeaway/delivery POS, multi-screen Kitchen Display Systems (URY MOSAIC), Bill of Materials recipe costing, table order management with live inventory checks, and shift cash reconciliation.
 
-14. **[FloCafe POS](https://github.com/FreeOpenSourcePOS/FloCafe)** [![GitHub Stars](https://img.shields.io/github/stars/FreeOpenSourcePOS/FloCafe?style=social&color=white)](https://github.com/FreeOpenSourcePOS/FloCafe/stargazers)  
+14. **[FloCafe POS](https://github.com/FreeOpenSourcePOS/FloCafe)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeOpenSourcePOS/FloCafe?style=social&color=white)](https://github.com/FreeOpenSourcePOS/FloCafe/stargazers)  
     *Offline-First Point of Sale for Cafes and Food Businesses (GPL-3.0)*  
     Lightweight Java-based desktop POS designed specifically for high-speed counter service, thermal printer receipt generation, cash drawer kicking, and local sales logging.
 
-15. **[MnemoResto](https://github.com/Mnemosyne-OS/MnemoResto---MnemosyneOS)** [![GitHub Stars](https://img.shields.io/github/stars/Mnemosyne-OS/MnemoResto---MnemosyneOS?style=social&color=white)](https://github.com/Mnemosyne-OS/MnemoResto---MnemosyneOS/stargazers)  
+15. **[MnemoResto](https://github.com/Mnemosyne-OS/MnemoResto---MnemosyneOS)** [![GitHub_Stars](https://img.shields.io/github/stars/Mnemosyne-OS/MnemoResto---MnemosyneOS?style=social&color=white)](https://github.com/Mnemosyne-OS/MnemoResto---MnemosyneOS/stargazers)  
     *Offline-First Restaurant Cartridge for Mnemosyne OS*  
     Features an interactive table floor plan with live states, guest CRM with preference memory, multi-table POS with per-item tax handling, trilingual interface (EN/FR/ES), and local AI-assisted shift summaries with complete data sovereignty.
 
@@ -162,7 +162,7 @@ Contributions are welcome from restaurant operators, hospitality developers, and
 1. Fork this repository: [ishandutta2007/Awesome-Food-Beverage-CRM](https://github.com/ishandutta2007/Awesome-Food-Beverage-CRM)
 2. Add your SaaS product or open-source repository to `README.md` following the established table or list format.
 3. For SaaS products, ensure you include starting pricing, exact free tier / trial parameters, and company valuation/revenue metrics.
-4. For open-source projects, ensure you link the official repo, provide a brief description, and include the star badge linking to `/stargazers`.
+4. For open-source projects, ensure you link the official repo, provide a brief description, and include the Stars_Badge linking to `/stargazers`.
 5. Submit a Pull Request with a clear description of the addition.
 
 Check out [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
